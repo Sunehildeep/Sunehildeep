@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/github/stars/Sunehildeep?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars">
   ·
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome">
-  ·
-  <img src="https://img.shields.io/github/license/Sunehildeep/reponame" alt="License">
+
 </p>
 
 <h2>🎓 About Me</h2>
