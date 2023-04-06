@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Made with Markdown">
-</p>
-
 <h1 align="center">Hi there! 👋 I'm Sunehildeep Singh</h1>
 
 <p align="center">
