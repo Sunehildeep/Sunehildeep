@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunehildeep&layout=compact" alt="Top Languages">
 </p>
 
-<p>I'm currently pursuing my degree in Artificial Intelligence from Centennial College. My love for AI started when I wanted to make a personal assistant app of my own capable of almost all automation capabilities in a house combined with a chatbot. I'm continually fascinated by the power of AI and how it is changing the world around us.</p>
+<p>I'm currently pursuing my degree in Artificial Intelligence from Centennial College. I am very interested in coding and have been doing it since i was 14. All the languages I know are self-taught through my own personal experience. My love for AI started when I wanted to make a personal assistant app of my own capable of almost all automation capabilities in a house combined with a chatbot. I'm continually fascinated by the power of AI and how it is changing the world around us.</p>
 
 <p>Apart from AI, I'm also interested in various other areas of computer science, such as web development, software development, and gaming. I believe that a strong foundation in these areas can complement my AI skills and make me a well-rounded professional.</p>
 
