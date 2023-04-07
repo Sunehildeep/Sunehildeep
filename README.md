@@ -55,7 +55,7 @@
 <p>Feel free to reach out to me via email or LinkedIn. I'm always open to new opportunities and collaborations!</p>
 <p align="center">
   <a href="mailto:nsunehil@gmail.com"><img src="https://img.shields.io/badge/Email-Me!-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sunehildeep-singh-093a75228/"><img src="https://img.shields.io/badge/LinkedIn-Connect!-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sunehildeepsingh"><img src="https://img.shields.io/badge/LinkedIn-Connect!-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a" alt="LinkedIn"></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sunehildeep&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
