@@ -14,7 +14,7 @@
 <h2>🎓 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunehildeep&show_icons=true&count_private=trues&theme=dark&hide=issues" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunehildeep&show_icons=true&count_private=trues&theme=radical&hide=issues" alt="GitHub Stats">
 </p>
 
 <p>I'm currently pursuing my degree in Artificial Intelligence from Centennial College. I am very interested in coding and have been doing it since I was 14. All the languages I know are self-taught through my own personal experience. My love for AI started when I wanted to make a personal assistant app of my own capable of almost all automation capabilities in a house combined with a chatbot. I'm continually fascinated by the power of AI and how it is changing the world around us.</p>
@@ -39,7 +39,7 @@
 <p>I'm proficient in the following languages and technologies:</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunehildeep&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunehildeep&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <ul style="list-style-type:none;">
