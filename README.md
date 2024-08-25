@@ -1,6 +1,3 @@
-Here's a refined version of your README:
-
----
 
 <h1 align="center">Hi there! 👋 I'm Sunehildeep Singh</h1>
 
