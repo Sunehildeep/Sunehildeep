@@ -108,8 +108,8 @@
 <p>I'm always open to new opportunities and collaborations! Feel free to reach out to me via:</p>
 
 <p align="center">
-  <a href="mailto:nsunehil@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sunehildeep-singh/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn"></a>
+  <a href="mailto:sunehildeep@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sunehildeepsingh/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn"></a>
 </p>
 
 ---
