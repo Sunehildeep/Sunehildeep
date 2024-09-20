@@ -30,8 +30,8 @@
 <p>Here's a glimpse of some projects I've worked on:</p>
 
 <ul>
-  <li><a href="https://github.com/stars/Sunehildeep/lists/web-development">🌐 <strong>Web Development</strong></a>: Developed Angular and Express applications during my college studies.</li>
   <li><a href="https://github.com/stars/Sunehildeep/lists/machine-learning">🤖 <strong>Machine Learning</strong></a>: Worked on projects including a text generator, Auto-Regressive model, and human eye tracking.</li>
+  <li><a href="https://github.com/stars/Sunehildeep/lists/web-development">🌐 <strong>Web Development</strong></a>: Developed React, Next applications.</li>
   <li><a href="https://github.com/stars/Sunehildeep/lists/sa-mp">🎮 <strong>SA:MP Scripts</strong></a>: Created scripts for the SA:MP gaming community.</li>
   <li><a href="https://github.com/stars/Sunehildeep/lists/c-applications">📱 <strong>C# Applications</strong></a>: Developed software for the Acer community.</li>
 </ul>
