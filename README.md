@@ -111,7 +111,3 @@
   <a href="mailto:sunehildeep@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email"></a>
   <a href="https://www.linkedin.com/in/sunehildeepsingh/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn"></a>
 </p>
-
----
-
-This improved version is more polished and maintains a professional yet friendly tone. It also ensures that the content is clear, concise, and well-structured.
