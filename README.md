@@ -1,113 +1,114 @@
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7066F6&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Sunehildeep+Singh+%F0%9F%91%8B;AI+Developer+%26+Innovator+%F0%9F%A4%96;Building+the+Future+with+Code+%F0%9F%9A%80)](https://github.com/Sunehildeep)</div>
 
-<h1 align="center">Hi there! 👋 I'm Sunehildeep Singh</h1>
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Sunehildeep?style=for-the-badge&color=7066F6)](https://github.com/Sunehildeep?tab=followers)
+  [![GitHub Stars](https://img.shields.io/github/stars/Sunehildeep?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7066F6)](https://github.com/Sunehildeep?tab=repositories)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-7066F6?style=for-the-badge)](https://github.com/Sunehildeep?tab=repositories)
+  
+</div>
 
-<p align="center">
-  <i>Undergraduate student passionate about Artificial Intelligence</i>
-  <br><br>
-  <a href="https://github.com/Sunehildeep?tab=followers"><img src="https://img.shields.io/github/followers/Sunehildeep.svg?label=Follow&style=social" alt="GitHub Follow"></a>
-  ·
-  <a href="https://github.com/Sunehildeep?tab=repositories"><img src="https://img.shields.io/github/stars/Sunehildeep?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars"></a>
-  ·
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs welcome">
-</p>
+## 🚀 About Me
+
+> "Building intelligent systems that shape tomorrow's possibilities"
+
+I'm not just another developer – I'm an AI innovator and problem solver who began coding at 14. What started as a curiosity has evolved into a mission to revolutionize how we interact with technology. My journey in AI has been marked by:
+
+- 🌟 **Continuous Growth**: Mastered 6+ programming languages and multiple tech stacks
+- 🔬 **Research Focus**: Actively exploring cutting-edge AI technologies and their practical applications
+- 🎓 **Academic Excellence**: Currently pursuing AI at Centennial College
+- 💡 **Vision-Driven**: Committed to developing AI solutions that make a real-world impact
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sunehildeep&show_icons=true&count_private=true&hide=issues&theme=tokyonight&bg_color=00000000&hide_border=true&ring_color=7066F6" />
+  <img src="https://streak-stats.demolab.com?user=Sunehildeep&theme=tokyonight&hide_border=true&background=00000000&ring=7066F6" />
+</div>
+
+## 💻 Featured Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 Machine Learning</h3>
+<div align="center">
+  <a href="https://github.com/stars/Sunehildeep/lists/machine-learning" target="_blank">
+    <img src="https://img.shields.io/badge/View_Projects-7066F6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+<br>
+<p align="center">Text generation, Auto-Regressive modeling, and human eye tracking implementations</p>
+</td>
+<td width="50%">
+<h3 align="center">🌐 Web Development</h3>
+<div align="center">
+  <a href="https://github.com/stars/Sunehildeep/lists/web-development" target="_blank">
+    <img src="https://img.shields.io/badge/View_Projects-7066F6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+<br>
+<p align="center">Modern React and Next.js applications with cutting-edge features</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🎮 SA:MP Scripts</h3>
+<div align="center">
+  <a href="https://github.com/stars/Sunehildeep/lists/sa-mp" target="_blank">
+    <img src="https://img.shields.io/badge/View_Projects-7066F6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+<br>
+<p align="center">Custom scripts enhancing the SA:MP gaming experience</p>
+</td>
+<td width="50%">
+<h3 align="center">📱 C# Applications</h3>
+<div align="center">
+  <a href="https://github.com/stars/Sunehildeep/lists/c-applications" target="_blank">
+    <img src="https://img.shields.io/badge/View_Projects-7066F6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+<br>
+<p align="center">Software solutions for the Acer community</p>
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-7066F6?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7066F6?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7066F6?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7066F6?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7066F6?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-7066F6?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7066F6?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-7066F6?style=for-the-badge&logo=go&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunehildeep&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" />
+</div>
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  <a href="mailto:sunehildeep@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7066F6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sunehildeepsingh/">
+    <img src="https://img.shields.io/badge/LinkedIn-7066F6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>💬 Open for Collaborations and Opportunities!</h3>
+  <p>Let's work together to build something extraordinary</p>
+</div>
 
 ---
 
-<h2>🎓 About Me</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunehildeep&show_icons=true&count_private=true&theme=radical&hide=issues" alt="GitHub Stats">
-</p>
-
-<p>I'm currently pursuing my degree in Artificial Intelligence at Centennial College. I started coding when I was 14, driven by a deep curiosity to build and create. My journey into AI began with a personal project to develop an all-in-one automation app for home control, complete with a chatbot interface. Since then, I've been captivated by AI's potential to revolutionize industries and improve lives.</p>
-
-<p>Beyond AI, I explore various domains in computer science, including web development, software development, and gaming. I believe that diversifying my skill set will enable me to approach problems with a more comprehensive perspective and contribute to cutting-edge solutions in AI and beyond.</p>
-
----
-
-<h2>💻 Projects</h2>
-
-<p>Here's a glimpse of some projects I've worked on:</p>
-
-<ul>
-  <li><a href="https://github.com/stars/Sunehildeep/lists/machine-learning">🤖 <strong>Machine Learning</strong></a>: Worked on projects including a text generator, Auto-Regressive model, and human eye tracking.</li>
-  <li><a href="https://github.com/stars/Sunehildeep/lists/web-development">🌐 <strong>Web Development</strong></a>: Developed React, Next applications.</li>
-  <li><a href="https://github.com/stars/Sunehildeep/lists/sa-mp">🎮 <strong>SA:MP Scripts</strong></a>: Created scripts for the SA:MP gaming community.</li>
-  <li><a href="https://github.com/stars/Sunehildeep/lists/c-applications">📱 <strong>C# Applications</strong></a>: Developed software for the Acer community.</li>
-</ul>
-
-<p>All my projects are open-source and available on my GitHub profile. I'm always excited to take on new challenges that push the boundaries of what I know and help me grow as a developer.</p>
-
----
-
-<h2>🚀 Skills</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunehildeep&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-<p>I'm proficient in the following languages and technologies:</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<ul style="list-style: none; padding-left: 0;">
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      <span style="margin-left: 10px;">Python</span>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <span style="margin-left: 10px;">JavaScript</span>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-      <span style="margin-left: 10px;">Java</span>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-      <span style="margin-left: 10px;">C#</span>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
-      <span style="margin-left: 10px;">SQL</span>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-      <span style="margin-left: 10px;">PHP</span>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://kotlinlang.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-      <span style="margin-left: 10px;">Kotlin</span>
-    </a>
-  </li>
-  <li style="display: flex; align-items: center; margin-bottom: 10px;">
-    <a href="https://golang.org/" target="_blank" style="text-decoration: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-      <span style="margin-left: 10px;">Go</span>
-    </a>
-  </li>
-</ul>
-
-
----
-
-<h2>📫 Get in Touch</h2>
-
-<p>I'm always open to new opportunities and collaborations! Feel free to reach out to me via:</p>
-
-<p align="center">
-  <a href="mailto:sunehildeep@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/sunehildeepsingh/"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn"></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sunehildeep&style=for-the-badge&color=7066F6" />
+</div>
